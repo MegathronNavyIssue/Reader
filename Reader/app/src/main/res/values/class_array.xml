@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="main_classes">
+        <item>com.leco.test.test20160912.test20160912</item>
+        <item>com.leco.test.test20160914.test</item>
+        <item>com.leco.test.test20160919.test_1</item>
+        <item>com.leco.test.test20160919.test_2</item>
+        <item>com.leco.test.test20160919.test_3</item>
+        <item>com.leco.test.test20160919.test_4</item>
+        <item>com.leco.test.test20160919.test_5</item>
+        <item>com.leco.test.test20160923.test</item>
+    </string-array> 
+</resources>
